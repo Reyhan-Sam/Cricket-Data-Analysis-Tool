@@ -14,7 +14,5 @@ The processed data was then used to create a comprehensive Power BI dashboard. T
 
 Here is a brief recording showcasing the interactive Power BI dashboard:
 
-[![Power BI Dashboard](http://img.youtube.com/vi/6Z073DiHgtU/0.jpg)](http://www.youtube.com/watch?v=6Z073DiHgtU "Power BI Dashboard - Click to Watch!")
-
-
+https://github.com/Reyhan-Sam/Data-Analysis-Project/assets/81526349/866d7161-40a3-4c10-8408-6bbcfe286f2d
 
